@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7693",
+  "folder": "YouTube__watch_20260514135203_4250de",
+  "base_name": "Sweetie_Fox_Morning_Run_Ke0QJETKV-c_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/Eckar0999/Cloud-Downloads.1/releases/tag/co-releases-v1-7693",
+  "files": [
+    {
+      "name": "Sweetie_Fox_Morning_Run_Ke0QJETKV-c_720p.mp4",
+      "url": "https://github.com/Eckar0999/Cloud-Downloads.1/releases/download/co-releases-v1-7693/Sweetie_Fox_Morning_Run_Ke0QJETKV-c_720p.mp4",
+      "api_url": "https://api.github.com/repos/Eckar0999/Cloud-Downloads.1/releases/assets/420196216",
+      "id": 420196216,
+      "size": 8718473,
+      "download_count": 0
+    }
+  ]
+}
